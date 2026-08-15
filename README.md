@@ -1,6 +1,10 @@
+
+
 # Removedor de Acentos
 
 Aplicação desktop desenvolvida em **Python** para remover acentos de arquivos de forma automatizada, utilizando uma interface gráfica simples e intuitiva. Este projeto nasceu de uma necessidade encontrada durante minha atuação com suporte e implantação de sistemas ERP. 
+
+![Interface da aplicação](image.png)
 
 O projeto permite processar arquivos **XML, XLS, XLSX e CSV**, convertendo textos como:
 
@@ -277,12 +281,6 @@ A aplicação possui uma interface gráfica com:
 * Tratamento visual de erros e conclusão
 
 > Sugestão: adicione aqui uma captura de tela da aplicação.
-
-Exemplo:
-
-```markdown
-![Interface da aplicação](screenshots/image.png)
-```
 
 ---
 
