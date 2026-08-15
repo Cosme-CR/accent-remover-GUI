@@ -175,7 +175,7 @@ HTML
 Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/removedor-acentos-arquivos.git
+git clone https://github.com/Cosme-CR/accent-remover-GUI.git
 ```
 
 Entre na pasta:
@@ -281,7 +281,7 @@ A aplicação possui uma interface gráfica com:
 Exemplo:
 
 ```markdown
-![Interface da aplicação](screenshots/interface.png)
+![Interface da aplicação](screenshots/image.png)
 ```
 
 ---
